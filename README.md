@@ -47,7 +47,7 @@
 - train RMSE : 7385.26
 - test RMSE : 11562.87
 #
-### 데이터 전처리 방법 2 : 범주형 데이터를 모두 one-hot incoding + 카테고리 임베딩을 통해 수치형으로 변환
+### 데이터 전처리 방법 3 : 범주형 데이터를 모두 one-hot incoding + 카테고리 임베딩을 통해 수치형으로 변환
 #
 ### OLS summary 
 - R-squared : 0.784
